@@ -1,3 +1,5 @@
 aws_terraform.pem
 aws_terraform.pem:Zone.Identifier
 .terraform
+terraform.tfstate
+.terraform.lock.hcl
